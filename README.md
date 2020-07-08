@@ -22,7 +22,7 @@ This DApp allows any user to purchase T-Coins using Ether.
 
 
 ## Dependencies 
-
+{: .blue}
 1. Please ensure you are using a Chrome or Firefox browser. Please install [Metamask](https://metamask.io/download.html) and create an account. Once logged in, connect to the Rinkeby Test Network. If you require Ether funds (Rinkeby Test Network), please contact me and I will send you some funds. 
 
 ## Support or Contact
