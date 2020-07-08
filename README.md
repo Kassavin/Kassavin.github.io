@@ -4,29 +4,24 @@ A DApp (Decentralised Application) has its code running on a decentralised netwo
 
 Please refer to the Dependencies section before you begin. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Portfolio
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 2. Secret Number
 
-- Bulleted
-- List
+This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times. 
 
-1. Numbered
-2. List
+[Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+# T-Coin Sale
+
+This DApp allows any user to purchase T-Coins using Ether. 
+
+[T-Coin DApp](https://github.com/kassavin/T_Coin)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Dependencies 
 
