@@ -22,7 +22,7 @@ $\color{#f03c15}{your-text-here}$
 + text in green
 ! text in orange
 # text in gray
-@@ text in purple (and bold)@@
+text in purple
 ```
 
 
