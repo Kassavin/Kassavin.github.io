@@ -7,7 +7,7 @@ Please refer to the Dependencies section before you begin.
 ## Portfolio
 
 ```diff
-- Secret Number
+- ##### Secret Number
 
 This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times. 
 
