@@ -32,4 +32,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Having trouble? Contact me and I'll help you sort it out.
+Having trouble? Contact me and I'll help you. 
