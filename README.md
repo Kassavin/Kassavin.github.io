@@ -6,7 +6,7 @@ Please refer to the Dependencies section before you begin.
 
 ## Portfolio
 
-### 2. Secret Number
+#### 2. Secret Number
 
 This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times. 
 
