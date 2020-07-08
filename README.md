@@ -13,6 +13,8 @@ This DApp allows any user to store a secret number. The secret number can be upd
 [Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
 <span style="color:blue">some *This is Blue italic.* text</span>
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 ##### 2. T-Coin Sale
 
