@@ -14,6 +14,8 @@ This DApp allows any user to store a secret number. The secret number can be upd
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 
+$\color{#f03c15}{your-text-here}$
+
 
 
 [Secret Number DApp](https://github.com/kassavin/Secret_Number)
