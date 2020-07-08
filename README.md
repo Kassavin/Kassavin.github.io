@@ -17,6 +17,15 @@ This DApp allows any user to store a secret number. The secret number can be upd
 $\color{#f03c15}{your-text-here}$
 
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
 
 [Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
