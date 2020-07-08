@@ -1,6 +1,8 @@
-## Welcome to Kassavin
+## Welcome to my Ethereum DApp portfolio. 
 
+A DApp (Decentralised Application) has its code running on a decentralised network as opposed to a centralised server. In my portfolio, I am using the Ethereum blockchain (decentralised network), specifically the Rinkeby Testnet. 
 
+Please refer to the Dependencies section before you begin. 
 
 ### Markdown
 
