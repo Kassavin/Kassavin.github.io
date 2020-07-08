@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kassavin
 
-You can use the [editor on GitHub](https://github.com/kassavin/kassavin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -28,10 +26,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Dependencies 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kassavin/kassavin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+1. Please ensure you have a Chrome or Firefox browser.
+2. Please install [Metamask] (https://metamask.io/download.html)
+3. Create a Metamask Account. 
+4. Connect to the Rinkeby Test Network. 
+5. Send me your Ethereum address to recieve Ether (Required for using the DApps)
+```
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? Contact me and I'll help you sort it out.
