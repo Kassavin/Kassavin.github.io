@@ -5,13 +5,13 @@ Please ensure you are using a Chrome or Firefox browser. Please install [Metamas
 ## My Ethereum DApp portfolio.
 #
 
-[DApp 1: Secret Number DApp](https://github.com/kassavin/Secret_Number)
+[DApp 1: Store a Secret Number](https://github.com/kassavin/Secret_Number)
 
 This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times.
 
 #
 
-[DApp 40: T-Coin Sale DApp](https://github.com/kassavin/T_Coin)
+[DApp 40: Purchase T-Coin](https://github.com/kassavin/T_Coin)
 
 This DApp allows any user to purchase T-Coins using Ether. 
 
