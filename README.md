@@ -6,15 +6,13 @@ Please refer to the Dependencies section before you begin.
 
 ## Portfolio
 
-```diff
-- ##### Secret Number
+###### Secret Number
 
-This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times. 
+This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times.
 
-```
 [Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
-##### 2. T-Coin Sale
+###### T-Coin Sale
 
 This DApp allows any user to purchase T-Coins using Ether. 
 
