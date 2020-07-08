@@ -6,13 +6,9 @@ Please ensure you are using a Chrome or Firefox browser. Please install [Metamas
 
 ## Portfolio
 
-
-#### Secret Number
+[DApp 1: Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
 This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times.
-
-[Secret Number DApp](https://github.com/kassavin/Secret_Number)
-
 
 #### T-Coin Sale
 
