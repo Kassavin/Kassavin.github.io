@@ -6,18 +6,18 @@ Please refer to the Dependencies section before you begin.
 
 ## Portfolio
 
-#### 2. Secret Number
+##### 1. Secret Number
 
 This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times. 
 
 [Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
 
-### T-Coin Sale
+##### 2. T-Coin Sale
 
 This DApp allows any user to purchase T-Coins using Ether. 
 
-[T-Coin DApp](https://github.com/kassavin/T_Coin)
+[T-Coin Sale DApp](https://github.com/kassavin/T_Coin)
 
 
 ## Dependencies 
