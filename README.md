@@ -28,13 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Dependencies 
 
-```markdown
-1. Please ensure you have a Chrome or Firefox browser.
-2. Please install [Metamask] (https://metamask.io/download.html)
-3. Create a Metamask Account. 
-4. Connect to the Rinkeby Test Network. 
-5. Send me your Ethereum address to recieve Ether (Required for using the DApps)
-```
+1. Please ensure you are using a Chrome or Firefox browser. Please install [Metamask](https://metamask.io/download.html) and create an account. Once logged in, connect to the Rinkeby Test Network. If you require Ether funds (Rinkeby Test Network), please contact me and I will send you some funds. 
 
 ### Support or Contact
 
