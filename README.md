@@ -6,32 +6,13 @@ Please refer to the Dependencies section before you begin.
 
 ## Portfolio
 
-##### 1. Secret Number
+```diff
+- Secret Number
 
 This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times. 
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=Hello)
-
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-
-$\color{#f03c15}{your-text-here}$
-
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-text in purple
 ```
-
-
-
 [Secret Number DApp](https://github.com/kassavin/Secret_Number)
-
-<span style="color:blue">some *This is Blue italic.* text</span>
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 ##### 2. T-Coin Sale
 
