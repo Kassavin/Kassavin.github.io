@@ -11,7 +11,7 @@ This DApp allows any user to store a secret number. The secret number can be upd
 
 
 
-[2 - Purchase T-Coin](https://github.com/kassavin/T_Coin)
+[2 - Purchase T-Coin](https://kassavin.github.io/T_Coin)
 
 This DApp allows any user to purchase T-Coins using Ether. 
 
