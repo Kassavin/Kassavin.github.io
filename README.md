@@ -10,11 +10,11 @@ Please refer to the Dependencies section before you begin.
 
 This DApp allows any user to store a secret number. The secret number can be updated by any user, any number of times. 
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 
-[#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 
 [Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
