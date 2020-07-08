@@ -1,10 +1,10 @@
-# My Ethereum DApp portfolio. 
+# Welcome!
 
 A DApp (Decentralised Application) has its code running on a decentralised network as opposed to a centralised server.
 
 Please ensure you are using a Chrome or Firefox browser. Please install [Metamask](https://metamask.io/download.html) and create an account. Once logged in, connect to the Rinkeby Test Network. If you require Ether funds (Rinkeby Test Network), please contact me and I will send you some funds. If you have any problems, contact me. 
 
-# Portfolio
+## My Ethereum DApp portfolio. 
 
 [DApp 1: Secret Number DApp](https://github.com/kassavin/Secret_Number)
 
