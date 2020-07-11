@@ -1,7 +1,6 @@
 # My Ethereum DApp portfolio
 <br/>
 Please ensure you are using a Chrome or Firefox browser. Please install [Metamask](https://metamask.io/download.html) and create an account. Once logged in, connect to the Rinkeby Test Network. If you require Ether funds (Rinkeby Test Network), please contact me.
-
 <br/>
 
 [1 - Store a Number](https://kassavin.github.io/Ethereum_DApps/1_Number/src/index.html)
