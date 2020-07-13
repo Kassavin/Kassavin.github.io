@@ -6,14 +6,14 @@ Please ensure you are using a Chrome or Firefox browser. Please install [Metamas
 [1 - Store a Number](https://kassavin.github.io/Ethereum_DApps/1_Number/src/index.html)
 
 This DApp allows any user to store a number. <br/> 
-Framework: None 
+**Framework:** None 
 
 [2 - Store a Nickname](https://kassavin.github.io/Ethereum_DApps/2_Nickname/src/index.html)
 
 This DApp allows any user to store a Nickname.<br/> 
-Framework: None
+**Framework:** None 
 
 [3 - Purchase T-Coin](https://kassavin.github.io/T_Coin)
 
 This DApp allows any user to purchase T-Coins using Ether. <br/> 
-Framework: None
+**Framework:** None 
