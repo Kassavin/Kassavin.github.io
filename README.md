@@ -10,10 +10,10 @@ Framework: None
 
 [2 - Store a Nickname](https://kassavin.github.io/Ethereum_DApps/2_Nickname/src/index.html)
 
-Description: This DApp allows any user to store a Nickname. The Nickname can be updated any number of times.
+Description: This DApp allows any user to store a Nickname. The Nickname can be updated any number of times.<br/> 
 Framework: None
 
 [3 - Purchase T-Coin](https://kassavin.github.io/T_Coin)
 
-This DApp allows any user to purchase T-Coins using Ether. 
+This DApp allows any user to purchase T-Coins using Ether. <br/> 
 Framework: None
