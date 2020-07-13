@@ -10,7 +10,7 @@ This DApp allows any user to store a number. <br/>
 
 [2 - Store a Nickname](https://kassavin.github.io/Ethereum_DApps/2_Nickname/src/index.html)
 
-This DApp allows any user to store a Nickname.<br/> 
+This DApp allows any user to store a nickname.<br/> 
 **Framework:** None 
 
 [3 - Purchase T-Coin](https://kassavin.github.io/T_Coin)
