@@ -17,3 +17,10 @@ This DApp allows any user to store a nickname.<br/>
 
 This DApp allows any user to purchase T-Coins. <br/> 
 **Framework:** None 
+
+[4 - Place a Bounty](https://kassavin.github.io/BountyHunt/)
+
+This DApp allows any user to place a bounty. <br/> 
+**Framework:** React 
+
+
