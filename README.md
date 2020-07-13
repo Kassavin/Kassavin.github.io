@@ -15,5 +15,5 @@ This DApp allows any user to store a Nickname.<br/>
 
 [3 - Purchase T-Coin](https://kassavin.github.io/T_Coin)
 
-This DApp allows any user to purchase T-Coins using Ether. <br/> 
+This DApp allows any user to purchase T-Coins. <br/> 
 **Framework:** None 
