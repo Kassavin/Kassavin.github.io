@@ -28,3 +28,8 @@ This DApp allows any user to place a bounty. <br/>
 This DApp allows any user to store a string.  <br/> 
 **Framework:** React and @drizzle/store.
 
+[6 - Unbox Drizzle](https://kassavin.github.io/Ethereum_DApps/6_Unbox_Drizzle/build/)
+
+This DApp contains three Drizzle examples. <br/> 
+**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+
