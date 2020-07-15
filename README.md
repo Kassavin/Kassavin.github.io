@@ -33,3 +33,8 @@ This DApp allows any user to store a string.  <br/>
 This DApp contains three Drizzle examples. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
+[7 - Drizzle Events](https://kassavin.github.io/Ethereum_DApps/7_Drizzle_Event/build/)
+
+This DApp contains a Drizzle Event example. <br/> 
+**Framework:** React, Redux, React-Redux, React-Toastify, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+
