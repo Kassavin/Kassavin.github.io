@@ -43,3 +43,28 @@ This DApp contains a Drizzle Event example. <br/>
 This DApp allows any user to transfer a ERC20 Token. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
+[11_ICO](https://kassavin.github.io/Ethereum_DApps/11_ICO/build/)
+
+This DApp allows any user to purchase a ERC20 Token. <br/> 
+**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+
+[12_ERC721](https://kassavin.github.io/Ethereum_DApps/12_ERC721/build/)
+
+This DApp allows the admin to generate a ERC721 <br/> 
+**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+
+[13_Cryptorobots](https://kassavin.github.io/Ethereum_DApps/13_Cryptorobots/build/)
+
+This DApp allows any user to transfer a ERC20 Token. <br/> 
+**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+
+[14_Social_Media](https://kassavin.github.io/Ethereum_DApps/14_Social_Media/build/)
+
+This DApp allows any user to transfer a ERC20 Token. <br/> 
+**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+
+[15_Marketplace](https://kassavin.github.io/Ethereum_DApps/15_Marketplace/build/)
+
+This DApp allows any user to transfer a ERC20 Token. <br/> 
+**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+
