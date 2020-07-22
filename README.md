@@ -50,21 +50,21 @@ This DApp allows any user to purchase a ERC20 Token. <br/>
 
 [12_ERC721](https://kassavin.github.io/Ethereum_DApps/12_ERC721/build/)
 
-This DApp allows the admin to generate a ERC721 <br/> 
+This DApp allows the admin to generate a ERC721. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
 [13_Cryptorobots](https://kassavin.github.io/Ethereum_DApps/13_Cryptorobots/build/)
 
-This DApp allows any user to transfer a ERC20 Token. <br/> 
+This DApp allows any user to manufacture cryptorobots. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
 [14_Social_Media](https://kassavin.github.io/Ethereum_DApps/14_Social_Media/build/)
 
-This DApp allows any user to transfer a ERC20 Token. <br/> 
+This DApp allows any user to read and write messages. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
 [15_Marketplace](https://kassavin.github.io/Ethereum_DApps/15_Marketplace/build/)
 
-This DApp allows any user to transfer a ERC20 Token. <br/> 
+This DApp allows any user to list and bid for items in auction. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
