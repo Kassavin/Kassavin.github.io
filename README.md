@@ -31,7 +31,7 @@ This DApp allows any user to store a string.  <br/>
 [6 - Unbox Drizzle](https://kassavin.github.io/Ethereum_DApps/6_Unbox_Drizzle/build/)
 
 This DApp contains three Drizzle examples. <br/> 
-**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
+**Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin.
 
 [7 - Drizzle Events](https://kassavin.github.io/Ethereum_DApps/7_Drizzle_Event/build/)
 
