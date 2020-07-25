@@ -65,6 +65,6 @@ This DApp allows any user to read and write messages. <br/>
 
 [15_Marketplace](https://kassavin.github.io/Ethereum_DApps/15_Marketplace/build/)
 
-This DApp allows any user to list and bid for items in auction. <br/> 
+This DApp allows a user to list and bid for items in auction. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
