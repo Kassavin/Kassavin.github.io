@@ -45,7 +45,7 @@ This DApp allows any user to transfer a ERC20 Token. <br/>
 
 [11_ICO](https://kassavin.github.io/Ethereum_DApps/11_ICO/build/)
 
-This DApp allows any user to purchase a ERC20 Token. <br/> 
+This DApp allows any user to purchase ERC20 Tokens. <br/> 
 **Framework:** React, @drizzle/store, @drizzle/react-components, @drizzle/react-plugin. 
 
 [12_ERC721](https://kassavin.github.io/Ethereum_DApps/12_ERC721/build/)
